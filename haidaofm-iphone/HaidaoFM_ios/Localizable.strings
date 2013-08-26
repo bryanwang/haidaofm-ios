@@ -1,0 +1,74 @@
+/****************************************************************************/
+/* Localization file */
+
+"loading.." = "正在加载..";
+"completed" = "操作成功!";
+"submiting.." = "正在提交..";
+"error" = "出错了..";
+
+"back" = "返回";
+"close" = "关闭";
+"playing" = "正在播放";
+"comment" = "评论";
+"more" = "更多";
+
+"submit" = "提交";
+"DJ profile" = "DJ介绍";
+"playing list" = "播放列表";
+"feedback success" = "吐槽已收到，感谢...";
+
+"Topic" = "专题";
+"Topic description" = "专题介绍";
+
+"My Fav" = "我的收藏";
+"SNS" = "社交网络";
+"DJ Num" = "DJ编号";
+"DJ Email" = "电子邮箱";
+"DJ Sina Weibo" = "新浪微博";
+"DJ Profile" = "DJ信息";
+"share to friends" = "分享给好友";
+
+"sina weibo" = "新浪微博";
+"clear cache" = "清理缓存图片";
+"feedback" = "吐个槽吧";
+"score" = "打个分吧";
+"cancel weibo count" = "注销微博账号";
+"cancel weibo count?" = "确定注销微博账号？";
+"clear cache?" = "确定要清除缓存文件？";
+"sure" = "确定";
+
+"here you can leave your comments" = "您可以在这里留下您的意见";
+"here you can leave your contact" = "您可以在这里留下您的联系方式";
+
+
+"remove from fav collections" = "已收藏";
+"add to fav collections" = "收藏";
+
+"download" = "下载";
+"downloading" = "正在下载";
+"downloaded" = "已下载";
+
+"start to download" = "开始下载..";
+"download failed" = "下载失败..";
+"download successful" = "下载成功!";
+
+"Previous" = "Previous";
+"Next" = "Next";
+"Done" = "Done";
+"choose photo" = "choose photo";
+"cancel" = "cancel";
+"take photo from camera" = "take photo from camera";
+"take photo from library" = "take photo from library";
+"male" = "male";
+"female" = "female";
+"signIn" = "signIn";
+"signUp" = "signUp";
+"my channel" = "my channel";
+"edit" = "edit";
+"record" = "record";
+"start recording" = "start recording";
+"home" = "home";
+"fav" = "fav";
+"more⋯" = "more⋯";
+"add music" = "add music";
+

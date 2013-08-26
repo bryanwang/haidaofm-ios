@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>914E04E4-8C8F-4F6A-9C18-D45DAEDC6583</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HaidaoFM_ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>782B8E8D-33F0-41B1-82F2-D8C646A0CCFF</key>
+		<string>https://bitbucket.org/bobyuxinyang/haidaofm-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>haidaofm-iphone/HaidaoFM_ios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>782B8E8D-33F0-41B1-82F2-D8C646A0CCFF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/bobyuxinyang/haidaofm-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>782B8E8D-33F0-41B1-82F2-D8C646A0CCFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>782B8E8D-33F0-41B1-82F2-D8C646A0CCFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>@haidaofm-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
